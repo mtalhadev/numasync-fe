@@ -1,0 +1,10 @@
+export { default as SuccessChart } from './success-chart.svg';
+export { default as FailureChart } from './failure-chart.svg';
+export { default as Sort } from './sort.svg';
+export { default as LeadingLightLogo } from './leading-light-logo.svg';
+export { default as LeadingDarkLogo } from './leading-dark-logo.svg';
+export { default as LightLogoWithoutText } from './logo-without-text.svg';
+export { default as DarkLogoWithoutText } from './dark-logo-without-text.svg';
+export { default as Forbidden } from './forbidden.svg';
+export { default as Empty } from './empty.svg';
+export { default as UserSettings } from './user-settings.svg';
